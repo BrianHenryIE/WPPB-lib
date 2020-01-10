@@ -2,7 +2,13 @@
   "name": "brianhenryie/wppb-lib",
   "license": "GPL-2.0-or-later",
   "description": "Common files from WordPress Plugin Boilerplate",
+  "type": "library",
   "require": {
     "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "WPPB\\": "src"
+    }
   }
 }
