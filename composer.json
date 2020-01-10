@@ -1,0 +1,8 @@
+{
+  "name": "brianhenryie/wppb-lib",
+  "license": "GPL-2.0-or-later",
+  "description": "Common files from WordPress Plugin Boilerplate",
+  "require": {
+    "php": ">=5.6"
+  }
+}
