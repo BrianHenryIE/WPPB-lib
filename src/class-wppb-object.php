@@ -4,7 +4,7 @@
 // and private helper functions.
 
 // api, settings
-namespace WPPB;
+namespace BrianHenryIE\WPPB;
 
 abstract class WPPB_Object {
 
