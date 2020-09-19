@@ -1,6 +1,6 @@
 <?php
 
-namespace WPPB;
+namespace BrianHenryIE\WPPB;
 
 interface WPPB_Loader_Interface {
 

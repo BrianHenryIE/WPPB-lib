@@ -3,7 +3,7 @@
  * Register all actions and filters for the plugin.
  */
 
-namespace WPPB;
+namespace BrianHenryIE\WPPB;
 
 
 /**
