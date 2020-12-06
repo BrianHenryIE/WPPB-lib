@@ -6,7 +6,7 @@
 // api, settings
 namespace BrianHenryIE\WPPB;
 
-abstract class WPPB_Object {
+abstract class WPPB_Object implements WPPB_Object_Interface {
 
 	/**
 	 * The ID of this plugin.
